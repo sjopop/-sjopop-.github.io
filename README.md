@@ -17,3 +17,5 @@ https://www.srail.or.kr/cms/archive.do?pageId=KR0211010000
 
 이용한 테마
 https://startbootstrap.com/theme/freelancer#google_vignette
+
+나의 흥미있는 분야와 능력에 대해서 썼습니다. 고양이와 day7의 게임 그리고 평소에 마시는 커피에 제 흥미와 능력을 투여해서 어떻게 하면 제걸로 만들 수 있을지 생각해 포트폴리오를 만들어봤습니다.
